@@ -1,0 +1,155 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+#purple-highlight{
+    color: #363958;
+    margin-bottom: -15px;
+}
+
+#green-highlight{
+    color: #76C27E;
+}
+
+
+.heading-tag{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+
+.header-txt{
+    margin-left: 50px;
+}
+
+.header-img{
+    margin-left: auto;  
+}
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    color: #363958;
+    margin-bottom: 30px;
+}
+#casual-backpack{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#travel-backpack{
+    margin-bottom: 100px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.nav-bg{
+    background-color: #FFFFF4;
+}
+.green-bg{
+    background-color: #FFFFF4;
+    border-radius: 10px;
+    height: 500px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #363958;
+
+}
+
+.price{
+    color: #76C27E;
+    font-size: 36px;
+    margin: 0;
+    display: inline-block;
+}
+
+.buy-now-button-header{
+    background-image: linear-gradient(to bottom, #3d3075 0%, #2A1E59 100%);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 15px 35px;
+    cursor: pointer;
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #3d3075 0%, #2A1E59 100%);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 8px;
+    padding: 15px 35px;
+    cursor: pointer;
+    float: right;
+}
+
+.card-image{
+    padding: 10%;
+    background-color: #F1F1F1;
+    border-radius: 15px;
+}
+
+.card-head{
+    padding: 5% 5% 0 5%;
+    
+}
+
+.feature-card{
+    background-color:rgb(255, 255, 255);
+}
+
+.feature-image{
+    width: 100%;
+    padding: 10%;
+}
+
+.feature-icon {
+    float:left;
+    margin-right:25px;
+    position: relative;
+    top:2px;
+
+}
+
+.feature-txt{
+    display:inline-block;
+    vertical-align:middle;
+}
+
+
+
+.feature-bg{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
